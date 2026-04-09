@@ -1,0 +1,21 @@
+# Node modules (in case you use Node tooling)
+node_modules/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# Editor directories
+.vscode/
+
+# Build output
+dist/
+
+# Ignore any secrets
+.env
